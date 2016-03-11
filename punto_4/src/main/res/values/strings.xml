@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">punto_4</string>
+    <string name="date_picker">date_picker</string>
+    <string name="date_picker1">date_picker1</string>
+
+
+    <string-array name="ciudades">
+        <item>Bogota</item>
+        <item>Cali</item>>
+        <item>Medellin</item>
+        <item>Otra</item>
+
+    </string-array>
+
+
+
+</resources>
